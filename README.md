@@ -119,6 +119,7 @@ Normalize our dataset.
 
 ## PROGRAM 
 Name: NITEESH M
+
 Reg.No:212222230098
 ````
 import pandas as pd
@@ -158,6 +159,11 @@ print(classification_report(y_test,predictions))
 ````
 
 ## OUTPUT 
+![img](out.jpg)
+![img](out1.jpg)
+![img](out2.jpg)
+![img](out3.jpg)
+![img](out4.jpg)
 
 ## RESULT
 Thus Implementation-of-MLP-with-Backpropagation problem is executed successfully.
